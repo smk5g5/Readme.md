@@ -17,8 +17,8 @@ Bioinformatics Scientist
 - 😄 Pronouns: He/Him/His
 - ⚙️ I use daily: `.py`, `.R`, `.cwl`, `.wdl`,`.sh`
 - 💻[Deep learning work](https://github.com/smk5g5/MU-PseUDeep)
-- 🛠 WDL pipeline development](https://github.com/smk5g5/Single_cell_WDLworkflows)
-- 👓 Single-cell analysis](https://github.com/Petti-Lab/Vestibular_schwannoma_code)
+- 🛠WDL pipeline development](https://github.com/smk5g5/Single_cell_WDLworkflows)
+- 👓Single-cell analysis](https://github.com/Petti-Lab/Vestibular_schwannoma_code)
 - 📰 [Google scholar](https://scholar.google.com/citations?hl=en&user=z_JS9WYAAAAJ)
 - 🌱 Learning all about **Open Source**
 - 📫 My research work: [https://www.researchgate.net/profile/Saad-Khan-30)
