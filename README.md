@@ -9,8 +9,7 @@ Bioinformatics Scientist
 ![](https://komarev.com/ghpvc/?username=smk5g5&color=red4)
 
 
-#### I'm a Bioinformatics Specialist working at Massachusetts General Hospital
- in Boston USA
+#### I'm a Bioinformatics Specialist working at Massachusetts General Hospital in Boston USA
 
 
 ##### BIO
