@@ -1,7 +1,7 @@
 ## Saad M Khan
 Bioinformatics Scientist
 
-** Some of what I do***
+**Some of what I do***
 <img align="left" src=anime/anime.gif>
 
 ---
