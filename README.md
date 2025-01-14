@@ -25,8 +25,6 @@ Bioinformatics Scientist
 - 📫 My research work: [https://www.researchgate.net/profile/Saad-Khan-30)
 - 💼 [linkedin](https://www.linkedin.com/in/saad-murtaza-khan/)
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=smk5g5&show_icons=true&theme=moltackw)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smk5g5&layout=compact)]
 
